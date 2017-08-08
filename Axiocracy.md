@@ -1,3 +1,9 @@
+# Axiocracy
+
+Rule by value to minimize harm
+
+## rough notes
+
 The way to minimize harm is through economic incentives.
 
 The expected cost of doing harm must be greater than the expected benefit in order to deter bad actors.

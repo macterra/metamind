@@ -25,7 +25,7 @@
   * Plausibility network
   * Every belief b has a compliment b' = not b 
   * P(b') = 1 - P(b)
-* mind.net
+* mind.net?
 * blockchain decentralized git compository
 * no master branch, though any branch can be shared to the more it is shared the closer it is to a "master"
 * anyone can publish their branch to be shared by others
@@ -56,6 +56,26 @@
 * every belief-network has 1M pre-mined tokens to represent ownership
 * ownership can be shared with contributors to distribute profits or vote on pull requests
 * pay for endorsements, i.e to have a 3rd party publish your claims "I am a Canadian citizen" published by Govt of Canada is pretty strong evidence. All publications are timestamped and tamper proof.
+
+### viki
+
+implementation in viki
+
+* Every belief gets a page
+* Pages have 1 or more interpretations enumerating implications, assumptions, evidence, meaning
+* Each interpretation has a plausibility
+* Each page has a list of subscribers, others who share the belief
+* Each page has a list of proposals, revisions submitted by subscribers to improve the belief
+* Maybe seed with wikipedia and wiktionary?
+* Every interpretation has an assigned truth value and a derived truth value
+* Assigned will default to derived unless overridden
+* Interpretation view starts with a table of concepts vs definitions in context
+* Interpretions are named by the author
+* Upload your beliefs so an agent can act on your behalf.
+* The agent will build your belief network through conversation.
+* The agent will use your belief network as its belief network.
+* You can tell your agent which beliefs to share in order to locate like-minded individuals.
+* When you die your agent can manage your estate.
 
 
 

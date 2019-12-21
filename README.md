@@ -35,3 +35,4 @@
 * Pike test (binary Turing test)
 * On consciousness
 	* awareness and meta-awareness
+* Metaphysics as language creation

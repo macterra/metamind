@@ -3,7 +3,7 @@
 ## WIP
 
 * [Axiocracy](Axiocracy.md)
-* [Semantic Logic](Semantic%20Logic.md)
+* [Semantic Logic](Semantic-Logic.md)
 
 ## tbd
 

@@ -4,6 +4,7 @@
 
 * [Axiocracy](Axiocracy.md)
 * [Semantic Logic](Semantic-Logic.md)
+* [Cherubim](Cherubim.md)
 
 ## tbd
 

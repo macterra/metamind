@@ -11,6 +11,6 @@
     - option 2 wins with 150 vs 100 tokens
     - A gets 200 tokens: 120 consolation (150 * 80/100) + 80 back
     - B gets 50 tokens: 30 consolation (150 * 20/100) + 20 back
-    - C gets 40% credit/blame for option 2
-    - D gets 60% credit/blame for option 2
+    - C gets 40% (60/150) credit/blame for option 2
+    - D gets 60% (90/150) credit/blame for option 2
     - A and B lose this vote but gain more tokens to influence next vote 

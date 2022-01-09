@@ -3,7 +3,7 @@
 - everyone stakes any amount they want to the available options
 - option with most tokens wins vote
 - winners' stake is sent to losers, pro-rated by how much they staked
-- e.g.
+- e.g. DAO members A, B, C, D are voting on option 1 or 2:
     - A votes 80 tokens for option 1
     - B votes 20 tokens for option 1
     - C votes 60 tokens for option 2

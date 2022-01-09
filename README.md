@@ -5,6 +5,7 @@
 * [Axiocracy](Axiocracy.md)
 * [Semantic Logic](Semantic-Logic.md)
 * [Cherubim](Cherubim.md)
+* [DAO Vote](DAO-Vote.md)
 
 ## tbd
 

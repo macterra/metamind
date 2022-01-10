@@ -1,4 +1,4 @@
-# Fair DAO voting mechanism
+# DAO auction-voting
 
 - everyone stakes any amount they want to the available options
 - option with most tokens wins vote
